@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "priceteat",
-    "slug": "priceteat",
+    "name": "locktest",
+    "slug": "locktest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
